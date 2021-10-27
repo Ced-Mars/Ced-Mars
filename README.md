@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ced-Mars
+- 👋 Hi, I’m Cédric (@Ced-Mars)
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning what i can
 - 💞️ I’m looking to collaborate on Front-End dev
